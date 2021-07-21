@@ -2,7 +2,7 @@
 - 👀 I’m interested in data field
 - 🌱 I’m currently learning regarding data field such as, data analyst and data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: linktree/rizkisetiaone
+- 📫 How to get knowing about me: linktree/rizkisetiaone
 
 <!---
 rizkisetiaone/rizkisetiaone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
