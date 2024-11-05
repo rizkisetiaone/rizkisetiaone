@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Rizki. I'm a final year business management student at ITS Surabaya
-- 👀 I’m interested in data field
+- 👋 Hi, I'm Rizki. I'm a business management graduate from ITS Surabaya with combined data and programming project accomplishment, check out my publised undergraduate thesis: ieeexplore.ieee.org/document/10531468
+- 👀 I’m interested in data field and strongly believe that data is the new oil
 - 🌱 I’m currently learning to be aspiring data scientist
-- 📫 How to get knowing about me: linktree/rizkisetiaone
+- 📫 How to get know more about me: linktree/rizkisetiaone
 
 
 
